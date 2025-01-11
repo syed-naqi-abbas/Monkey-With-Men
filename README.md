@@ -14,16 +14,18 @@ Now, just as our name suggests, we are going to design the walker such that it r
 
 ### 2.	Components and Resources:
 
-* Dual Shaft Motor: To drive the crank mechanism and move the robot along the rope.
-* Microcontroller (Arduino): To control the motor and regulate movement.
+* Motor: To drive the crank mechanism and move the robot along the rope.
 * Breadboard and Jumper Wires: For connections between the motor, microcontroller, and power supply.
 * Use Machines: For cutting and assembling the structure using 3D printer
+ 
+![driver](https://github.com/user-attachments/assets/d196497b-9de2-4b17-a295-1208e2678feb)
+![motor](https://github.com/user-attachments/assets/b0f79f8f-e070-45f1-98c6-27652177f2c3)
+
 
 ### 3.	Working Mechanism:
 
 * The motor will drive the crank mechanism, converting rotational motion into linear motion to propel the walker.
 * An attachment system made using simple clamps will ensure the walker stays on the rope.
-* The microcontroller will manage motor speed to ensure smooth and controlled traversal.
 
  ![crank rocker system](https://github.com/user-attachments/assets/6e2e32b9-587e-419b-8add-02f76333955e)
 
@@ -34,9 +36,6 @@ Now, just as our name suggests, we are going to design the walker such that it r
 ### 2.	Ensuring smooth movement along the rope.
 
 * Solution: Using some soft material on the clamps to reduce friction between rope and clamps also make the shape Of hands to get the grip.
-### 3.	Managing precise motor control.
-
-* Solution: Program the Arduino for gradual acceleration and deceleration to avoid sudden movements, the motor should be coded to give a periodic Movement to resemble walking.
 
 ## Impact
 This design demonstrates practical applications in:
