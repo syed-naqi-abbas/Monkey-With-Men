@@ -18,9 +18,8 @@ Now, just as our name suggests, we are going to design the walker such that it r
 * Breadboard and Jumper Wires: For connections between the motor, microcontroller, and power supply.
 * Use Machines: For cutting and assembling the structure using 3D printer
  
-![driver](https://github.com/user-attachments/assets/d196497b-9de2-4b17-a295-1208e2678feb)
-![motor](https://github.com/user-attachments/assets/b0f79f8f-e070-45f1-98c6-27652177f2c3)
-
+![driver](https://github.com/user-attachments/assets/d196497b-9de2-4b17-a295-1208e2678fe)
+![motor (1)](https://github.com/user-attachments/assets/5d7d76fe-5ba1-459b-a2c0-61951c155635)
 
 ### 3.	Working Mechanism:
 
