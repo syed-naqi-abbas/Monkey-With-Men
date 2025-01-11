@@ -19,7 +19,7 @@ Now, just as our name suggests, we are going to design the walker such that it r
 * Use Machines: For cutting and assembling the structure using 3D printer
  
 ![driver](https://github.com/user-attachments/assets/299e86db-9466-4d55-8e34-8427d09a2ad2)
-![motor (1)](https://github.com/user-attachments/assets/5d7d76fe-5ba1-459b-a2c0-61951c155635)
+![motor (1) (1)](https://github.com/user-attachments/assets/b24e9e62-7374-4e41-bebb-9eaab875b9d6)
 
 ### 3.	Working Mechanism:
 
