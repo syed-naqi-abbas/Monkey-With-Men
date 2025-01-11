@@ -1,4 +1,4 @@
-#Monkey with Men
+# Monkey With Men
 
 Abstract
 The "Inverted Walker" is a device which is designed to traverse a rope. We are required to use only a single degree of freedom linkage. This document outlines our approach to creating an efficient and stable walker. Our goal is to make sure that it has maximum speed so that it can traverse the rope in shortest time and it is also light weight.
