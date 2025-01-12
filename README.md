@@ -13,6 +13,8 @@ Now, just as our name suggests, we are going to design the walker such that it r
 * The linkage mechanism will use a ‘crank-rocker’ system powered by the dual shaft motor.
 * The center of gravity will be adjusted using weights attached to the structure to ensure stability on the rope.
 * We will design and simulate the model, keeping proper physics in consideration, in a way that it walks in a most efficient way.
+  
+![Circuit Diagram](https://github.com/user-attachments/assets/25997724-ccb5-4a24-87c7-59bda149171d)
 
 ### 2.	Components and Resources:
 
